@@ -7,7 +7,7 @@ My first pick when entering the VM world was VirtualBox by Oracle. If just start
 You can first begin with simply typing “Virtual Box” into your search engine and hitting enter. The website should be one of the top options and titled “Oracle VM VirtualBox”.
 
 
-<img src="https://github.com/maxwellrv/Active-Directory-Project/assets/167650867/fbe715e1-545f-4e59-9af1-5168b824ffec" />
+<img src="https://github.com/user-attachments/assets/c511df12-684d-421c-9440-22009a8c6d68" />
 
 
 You’ll then want to click on that title and be brought to the home page.
