@@ -6,6 +6,10 @@ The VM software I am choosing for this guide is open source, popular, and most i
 My first pick when entering the VM world was VirtualBox by Oracle. If just starting out with VM tech, this would definitely be my first suggestion because it is very easy to download and user friendly once ready to start deploying your own virtual operating systems. 
 You can first begin with simply typing “Virtual Box” into your search engine and hitting enter. The website should be one of the top options and titled “Oracle VM VirtualBox”.
 
+
+<img src="https://github.com/maxwellrv/Active-Directory-Project/assets/167650867/fbe715e1-545f-4e59-9af1-5168b824ffec" />
+
+
 You’ll then want to click on that title and be brought to the home page.
 
 Navigate to the left of the menu and click on “Downloads”.
